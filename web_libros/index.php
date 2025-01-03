@@ -1,10 +1,4 @@
-<!-- /*
-* Bootstrap 5
-* Template Name: Furni
-* Template Author: Untree.co
-* Template URI: https://untree.co/
-* License: https://creativecommons.org/licenses/by/3.0/
-*/ -->
+
 <!doctype html>
 <html lang="en">
 <head>
@@ -21,7 +15,7 @@
 		<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 		<link href="css/tiny-slider.css" rel="stylesheet">
 		<link href="css/style.css" rel="stylesheet">
-		<title>Furni Free Bootstrap 5 Template for Furniture and Interior Design Websites by Untree.co </title>
+		<title>Libhub.</title>
 	</head>
 
 	<body>
@@ -507,7 +501,7 @@
 				<div class="border-top copyright">
 					<div class="row pt-4">
 						<div class="col-lg-6">
-							<p class="mb-2 text-center text-lg-start">Copyright &copy;<script>document.write(new Date().getFullYear());</script>. All Rights Reserved. &mdash; Designed with love by <a href="https://untree.co">Untree.co</a> Distributed By <a hreff="https://themewagon.com">ThemeWagon</a>  <!-- License information: https://untree.co/license/ -->
+							<p class="mb-2 text-center text-lg-start">Copyright &copy;<script>document.write(new Date().getFullYear());</script></a>
             </p>
 						</div>
 
